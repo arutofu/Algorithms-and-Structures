@@ -1,0 +1,4 @@
+C:\Users\ARTEM\source\repos\Быстрая сортировка\Debug\Быстрая сортировка.exe
+C:\Users\ARTEM\source\repos\Быстрая сортировка\Debug\Быстрая сортировка.pdb
+C:\Users\HECKER\source\repos\Быстрая сортировка\Debug\Быстрая сортировка.exe
+C:\Users\F_art\source\repos\4 Университет\Быстрая сортировка\Debug\Быстрая сортировка.exe
