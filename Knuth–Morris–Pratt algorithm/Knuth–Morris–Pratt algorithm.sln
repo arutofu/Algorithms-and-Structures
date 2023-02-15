@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Алгоритм Кнута-Морриса-Пратта", "Алгоритм Кнута-Морриса-Пратта.csproj", "{495B8B01-8946-41A1-9FB3-D4F086257CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495B8B01-8946-41A1-9FB3-D4F086257CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495B8B01-8946-41A1-9FB3-D4F086257CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495B8B01-8946-41A1-9FB3-D4F086257CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495B8B01-8946-41A1-9FB3-D4F086257CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4698B4-4F57-429E-8226-7C8D39FDC60D}
+	EndGlobalSection
+EndGlobal
