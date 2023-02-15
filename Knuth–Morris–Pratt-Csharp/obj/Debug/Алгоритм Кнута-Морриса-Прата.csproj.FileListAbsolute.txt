@@ -1,0 +1,15 @@
+C:\Users\ARTEM\source\repos\Алгоритм Кнута-Морриса-Прата\bin\Debug\Алгоритм Кнута-Морриса-Прата.exe.config
+C:\Users\ARTEM\source\repos\Алгоритм Кнута-Морриса-Прата\bin\Debug\Алгоритм Кнута-Морриса-Прата.exe
+C:\Users\ARTEM\source\repos\Алгоритм Кнута-Морриса-Прата\bin\Debug\Алгоритм Кнута-Морриса-Прата.pdb
+C:\Users\ARTEM\source\repos\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.exe
+C:\Users\ARTEM\source\repos\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.pdb
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\bin\Debug\Алгоритм Кнута-Морриса-Прата.exe.config
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\bin\Debug\Алгоритм Кнута-Морриса-Прата.exe
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\bin\Debug\Алгоритм Кнута-Морриса-Прата.pdb
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.exe
+C:\Users\F_art\source\repos\4 Университет\Алгоритм Кнута-Морриса-Прата\obj\Debug\Алгоритм Кнута-Морриса-Прата.pdb

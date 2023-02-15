@@ -1,0 +1,24 @@
+C:\Users\ARTEM\source\repos\Graph\bin\Debug\Graph.exe.config
+C:\Users\ARTEM\source\repos\Graph\bin\Debug\Graph.exe
+C:\Users\ARTEM\source\repos\Graph\bin\Debug\Graph.pdb
+C:\Users\ARTEM\source\repos\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\Graph\obj\Debug\Graph.exe
+C:\Users\ARTEM\source\repos\Graph\obj\Debug\Graph.pdb
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\bin\Debug\Graph.exe.config
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\bin\Debug\Graph.exe
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\bin\Debug\Graph.pdb
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\obj\Debug\Graph.exe
+C:\Users\HECKER\source\repos\_____Progs_____\Graph\obj\Debug\Graph.pdb
+C:\Users\F_art\source\repos\4 Университет\Graph\bin\Debug\Graph.exe.config
+C:\Users\F_art\source\repos\4 Университет\Graph\bin\Debug\Graph.exe
+C:\Users\F_art\source\repos\4 Университет\Graph\bin\Debug\Graph.pdb
+C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.exe
+C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.pdb
+C:\Users\F_art\source\repos\4 Университет\Graph\bin\Debug\Граф.txt

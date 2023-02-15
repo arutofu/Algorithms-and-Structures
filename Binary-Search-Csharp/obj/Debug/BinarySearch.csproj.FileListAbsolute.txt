@@ -1,0 +1,23 @@
+C:\Users\ARTEM\source\repos\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\ARTEM\source\repos\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\ARTEM\source\repos\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\ARTEM\source\repos\BinarySearch\obj\Debug\BinarySearch.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\ARTEM\source\repos\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\HECKER\source\repos\_____Progs_____\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\F_art\source\repos\4 Университет\BinarySearch\obj\Debug\BinarySearch.pdb

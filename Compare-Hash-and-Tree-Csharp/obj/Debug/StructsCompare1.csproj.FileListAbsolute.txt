@@ -1,0 +1,43 @@
+C:\Users\ARTEM\source\repos\StructsCompare1\bin\Debug\StructsCompare1.exe.config
+C:\Users\ARTEM\source\repos\StructsCompare1\bin\Debug\StructsCompare1.exe
+C:\Users\ARTEM\source\repos\StructsCompare1\bin\Debug\StructsCompare1.pdb
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\Main.Form1.resources
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.Properties.Resources.resources
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.csproj.GenerateResource.cache
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.exe
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.pdb
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\Main.SearchNumber.resources
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.LoadForm.resources
+C:\Users\ARTEM\source\repos\StructsCompare1\obj\Debug\StructsCompare1.AddInfo.resources
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\bin\Debug\StructsCompare1.exe.config
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\bin\Debug\StructsCompare1.exe
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\bin\Debug\StructsCompare1.pdb
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.AddInfo.resources
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.LoadForm.resources
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\Main.Form1.resources
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.Properties.Resources.resources
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\Main.SearchNumber.resources
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.csproj.GenerateResource.cache
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.exe
+C:\Users\F_art\source\repos\4 Университет\StructsCompare1\obj\Debug\StructsCompare1.pdb
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\bin\Debug\StructsCompare1.exe.config
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\bin\Debug\StructsCompare1.exe
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\bin\Debug\StructsCompare1.pdb
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.AddInfo.resources
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.LoadForm.resources
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\Main.Form1.resources
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.Properties.Resources.resources
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\Main.SearchNumber.resources
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.csproj.GenerateResource.cache
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.exe
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\obj\Debug\StructsCompare1.pdb
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\bin\Debug\Numbers.txt
+C:\Users\F_art\source\repos\4 Университет\Compare_Hash_and_Tree\bin\Debug\Strings.txt
