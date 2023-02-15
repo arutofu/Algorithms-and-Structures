@@ -1,0 +1,15 @@
+C:\Users\ARTEM\source\repos\Двухпут. слияние\bin\Debug\Двухпут.слияние.exe.config
+C:\Users\ARTEM\source\repos\Двухпут. слияние\bin\Debug\Двухпут.слияние.exe
+C:\Users\ARTEM\source\repos\Двухпут. слияние\bin\Debug\Двухпут.слияние.pdb
+C:\Users\ARTEM\source\repos\Двухпут. слияние\obj\Debug\Двухпут. слияние.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\Двухпут. слияние\obj\Debug\Двухпут. слияние.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\Двухпут. слияние\obj\Debug\Двухпут.слияние.exe
+C:\Users\ARTEM\source\repos\Двухпут. слияние\obj\Debug\Двухпут.слияние.pdb
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\bin\Debug\Двухпут.слияние.exe.config
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\bin\Debug\Двухпут.слияние.exe
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\bin\Debug\Двухпут.слияние.pdb
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\obj\Debug\Двухпут. слияние.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\obj\Debug\Двухпут. слияние.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\obj\Debug\Двухпут. слияние.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\obj\Debug\Двухпут.слияние.exe
+C:\Users\F_art\source\repos\4 Университет\Двухпут. слияние\obj\Debug\Двухпут.слияние.pdb
