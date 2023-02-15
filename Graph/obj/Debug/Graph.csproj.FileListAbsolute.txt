@@ -21,3 +21,4 @@ C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.cspro
 C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
 C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.exe
 C:\Users\F_art\source\repos\4 Университет\Graph\obj\Debug\Graph.pdb
+C:\Users\F_art\source\repos\4 Университет\Graph\bin\Debug\Граф.txt
