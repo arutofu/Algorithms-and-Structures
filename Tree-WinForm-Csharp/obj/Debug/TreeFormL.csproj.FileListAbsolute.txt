@@ -1,0 +1,26 @@
+C:\Users\ARTEM\source\repos\TreeFormL\bin\Debug\Prog.exe.config
+C:\Users\ARTEM\source\repos\TreeFormL\bin\Debug\Prog.exe
+C:\Users\ARTEM\source\repos\TreeFormL\bin\Debug\Prog.pdb
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\TreeFormL.csprojAssemblyReference.cache
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\TreeFormL.Main.resources
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\TreeFormL.AddInfo.resources
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\TreeFormL.ShowInfo.resources
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\TreeFormL.Properties.Resources.resources
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\TreeFormL.csproj.GenerateResource.cache
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\TreeFormL.csproj.CoreCompileInputs.cache
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\Prog.exe
+C:\Users\ARTEM\source\repos\TreeFormL\obj\Debug\Prog.pdb
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\bin\Debug\Prog.exe.config
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\bin\Debug\Prog.exe
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\bin\Debug\Prog.pdb
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.csproj.AssemblyReference.cache
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.csproj.SuggestedBindingRedirects.cache
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.Main.resources
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.AddInfo.resources
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.ShowInfo.resources
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.Properties.Resources.resources
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.csproj.GenerateResource.cache
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\TreeFormL.csproj.CoreCompileInputs.cache
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\Prog.exe
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\obj\Debug\Prog.pdb
+C:\Users\F_art\source\repos\4 Университет\TreeFormL\bin\Debug\TextTree.txt
